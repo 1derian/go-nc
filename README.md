@@ -29,7 +29,7 @@ nc_server_windows_amd64.exe -p 8084
 nc_client_windows_amd64.exe -h 127.0.0.1 -p 8084
 ```
 
-![image-20220613094024391](D:\project\go_hacker_hat\7.完美版nc(解决了缓冲区)\README.assets\image-20220613094024391.png)
+![image-20220613094024391](./README.assets/image-20220613094024391.png)
 
 linux
 
@@ -41,7 +41,7 @@ linux
 ./nc_client_linux_amd64 -h 127.0.0.1 -p 8084
 ```
 
-![image-20220613094530874](D:\project\go_hacker_hat\7.完美版nc(解决了缓冲区)\README.assets\image-20220613094530874.png)
+![image-20220613094530874](./README.assets/image-20220613094530874.png)
 
 ## 4.免责声明🧐
 
